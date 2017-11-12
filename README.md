@@ -1,6 +1,6 @@
 # Falldown
 
-Falldown is a game in which the user must pass walls comming from bottom to top.
+Falldown is a game in which the user must pass walls coming from bottom to top.
 
 ## Preview
 ![preview](https://github.com/miqwit/tic80_falldown/blob/master/doc/falldown.gif)
